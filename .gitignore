@@ -3,3 +3,10 @@ dist/
 .env
 *.log
 .DS_Store
+Testing_api_1/
+.vscode/
+.venv/
+venv/
+__pycache__/
+Testing api 1/
+API-IMPATechHub/
